@@ -1,5 +1,8 @@
+![logo](https://github.com/NavathaKoyyada/NavathaCareer/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Navatha Koyyada</h1>
 <h3 align="center">A passionate Software Engineer</h3>
+<img align="right" alt="coding" width="400"src="https://www.bgrafio.com/wp-content/uploads/2020/04/Animated-Explainer-Video-Bgrafio.gif)">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navathakoyyada&label=Profile%20views&color=0e75b6&style=flat" alt="navathakoyyada" /> </p>
 
