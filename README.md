@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/navatha-koyyada198806](https://www.linkedin.com/in/navatha-koyyada198806)
 
-- 📫 How to reach me **navatha.koyyada@gmail.com**
+- 📫 How to reach me **navathakoyyada@gmail.com**
 
 - ⚡ Fun fact **Nobody believes in reality**
 
